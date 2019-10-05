@@ -1,0 +1,64 @@
+﻿body {
+}
+
+.bloco-1 {
+    position: absolute;
+    background: #ffd800;
+    width: 1000px;
+    height: 200px;
+    top: 0px;
+}
+
+
+
+.bloco-2 {
+    position: absolute;
+    background: #ff0000;
+    width: 1000px;
+    height: 200px;
+    top: 200px;
+}
+
+
+
+.bloco-3 {
+    position: absolute;
+    background: #13329a;
+    width: 1000px;
+    height: 200px;
+    top: 400px;
+}
+
+
+
+.bloco-4 {
+    position: absolute;
+    background: #bd18a5;
+    width: 1000px;
+    height: 200px;
+    top: 600px;
+}
+
+
+
+.bloco-5 {
+    position: absolute;
+    background: #287a78;
+    width: 1000px;
+    height: 200px;
+    top: 800px;
+}
+.bloco-6 {
+    position: absolute;
+    background: #6f6954;
+    width: 1000px;
+    height: 200px;
+    top: 1000px;
+}
+.bloco-7 {
+    position: absolute;
+    background: #177653;
+    width: 1000px;
+    height: 200px;
+    top: 1200px;
+}

@@ -1,0 +1,101 @@
+﻿body {
+}
+
+.bloco-1 {
+    position: absolute;
+    background: #27434f;
+    width: 1000px;
+    height: 400px;
+    top: 0px;
+    left: 0px;
+}
+
+
+.bloco-2 {
+    position: absolute;
+    background: #d58ee0;
+    width: 400px;
+    height: 100px;
+    top: 400px;
+    left: 0px;
+}
+
+
+.bloco-3 {
+    position: absolute;
+    background: #7618e0;
+    width: 400px;
+    height: 100px;
+    top: 400px;
+    left: 400px;
+}
+
+
+.bloco-4 {
+    position: absolute;
+    background: #0026ff;
+    width: 400px;
+    height: 100px;
+    top: 400px;
+    left: 800px;
+}
+
+
+.bloco-5 {
+    position: absolute;
+    background: #808080;
+    width: 1000px;
+    height: 150px;
+    top: 500px;
+    left: 0px;
+}
+
+
+.bloco-6 {
+    position: absolute;
+    background: #e018dc;
+    width: 400px;
+    height: 450px;
+    top: 650px;
+    left: 0px;
+}
+
+
+.bloco-7 {
+    position: absolute;
+    background: #11d770;
+    width: 400px;
+    height: 450px;
+    top: 650px;
+    left: 400px;
+}
+
+
+.bloco-8 {
+    position: absolute;
+    background: #d58ee0;
+    width: 400px;
+    height: 450px;
+    top: 650px;
+    left: 800px;
+}
+
+
+.bloco-9 {
+    position: absolute;
+    background: #ffd800;
+    width: 1000px;
+    height: 150px;
+    top: 1200px;
+    left: 0px;
+}
+
+
+.bloco-10 {
+    position: absolute;
+    background: #13e06f;
+    width: 1000px;
+    height: 100px;
+    top: 1350px;
+    left: 0px;
+}

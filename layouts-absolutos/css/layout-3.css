@@ -1,0 +1,113 @@
+﻿body {
+}
+
+.bloco-1 {
+    position: absolute;
+    background: #27434f;
+    width: 250px;
+    height: 250px;
+    top: 0px;
+    left:0px;
+}
+
+.bloco-2 {
+    position: absolute;
+    background: #2ddae0;
+    width: 250px;
+    height: 250px;
+    top: 0px;
+    left:250px;
+}
+
+.bloco-3 {
+    position: absolute;
+    background: #420f46;
+    width: 250px;
+    height: 250px;
+    top: 0px;
+    left:500px;
+}
+
+.bloco-4 {
+    position: absolute;
+    background: #ff0000;
+    width: 250px;
+    height: 250px;
+    top: 0px;
+    left:750px;
+}
+
+.bloco-5 {
+    position: absolute;
+    background: #3b3f68;
+    width: 1000px;
+    height: 250px;
+    top: 250px;
+}
+
+.bloco-6 {
+    position: absolute;
+    background: #420f46;
+    width: 250px;
+    height: 250px;
+    top: 500px;
+    left:0px;
+}
+
+.bloco-7 {
+    position: absolute;
+    background: #2ddae0;
+    width: 250px;
+    height: 250px;
+    top: 500px;
+    left:250px;
+}
+.bloco-8 {
+    position: absolute;
+    background: #7618e0;
+    width: 250px;
+    height: 250px;
+    top: 500px;
+    left: 500px;
+}
+.bloco-9 {
+    position: absolute;
+    background: #ffd800;
+    width: 250px;
+    height: 250px;
+    top: 500px;
+    left: 750px;
+}
+.bloco-10 {
+    position: absolute;
+    background: #ff6a00;
+    width: 1000px;
+    height: 250px;
+    top: 750px;
+    left: 0px;
+}
+.bloco-11 {
+    position: absolute;
+    background: #11d770;
+    width: 1000px;
+    height: 250px;
+    top: 1000px;
+    left: 0px;
+}
+
+.bloco-12 {
+    position: absolute;
+    background: #2ddae0;
+    width: 500px;
+    height: 200px;
+    top: 1250px;
+    left: 0px;
+}
+.bloco-13 {
+    position: absolute;
+    background: #7618e0;
+    width: 500px;
+    height: 200px;
+    top: 1250px;
+    left: 500px;
+}
